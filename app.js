@@ -1,1 +1,1 @@
-"trouble"
+alert("uh-oh!""trouble"
